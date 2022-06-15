@@ -1,7 +1,8 @@
 0.0.0.0 www.allsonicgames.net
 0.0.0.0 allsonicgames.net
 0.0.0.0 https://web.roblox.com
+0.0.0.0 *.roblox.com
 0.0.0.0 turbowarp.org
 0.0.0.0 www.smbgames.be/yoshis-strange-quest.php
 0.0.0.0 https://poki.com/en/g/flyordie-io
-127.0.0.1 scratch.mit.edu
+0.0.0.0 scratch.mit.edu
